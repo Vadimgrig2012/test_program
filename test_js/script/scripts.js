@@ -14,3 +14,6 @@ switch (typeof x) {
     default:
         console.log('Тип x не определен');
 }
+
+
+console.log('привет')
